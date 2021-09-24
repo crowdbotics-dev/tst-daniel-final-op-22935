@@ -10,5 +10,5 @@ export const globalOptions = {
 }
 
 export const modulesOptions = {
-  "@modules/app-menu": { title: "App Menuss" }
+  "@modules/app-menu": { title: "App Menus" }
 }
