@@ -965,7 +965,7 @@
     "@react-navigation/stack" "^5.14.2"
     react-native-keyboard-aware-scroll-view "^0.9.3"
 
-"@modules/push-notifications@file:./modules/push-notifications/":
+"@modules/push-notifications@file:./modules/push-notifications":
   version "1.0.0"
 
 "@modules/terms-and-conditions@file:./modules/terms-and-conditions":
@@ -6066,10 +6066,10 @@ react-native-keyboard-aware-scroll-view@^0.9.3:
     prop-types "^15.6.2"
     react-native-iphone-x-helper "^1.0.3"
 
-react-native-onesignal@^4.0.3:
-  version "4.3.0"
-  resolved "https://registry.yarnpkg.com/react-native-onesignal/-/react-native-onesignal-4.3.0.tgz#69f99cbf04fb2fa2792641b54e97a48edab33402"
-  integrity sha512-Ancw3jimAR3unrgKNOFuXnkMlvp+nl1vHbseVPBAcjfN9CkdvbFdX7tVkj4pPW2jDn6urITefgRQq67wB7pD2A==
+react-native-onesignal@^4.4.1:
+  version "4.4.1"
+  resolved "https://registry.yarnpkg.com/react-native-onesignal/-/react-native-onesignal-4.4.1.tgz#c79c94ea8622012adcd3d1e36ba91be6fa126453"
+  integrity sha512-vbS0E2TO5KljT0l1nAce04aOZF6FLv9oUaliffhFQR92oTHAbwNmwwMpxZF6CIcNANDDKkYtKPw5h7baUxmQdw==
   dependencies:
     invariant "^2.2.2"
 
